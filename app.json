@@ -12,6 +12,7 @@
     },
     "plugins": ["expo-router"],
     "experiments": {
+      "newArchEnabled": true,
       "typedRoutes": true,
 
       "tsconfigPaths": true
